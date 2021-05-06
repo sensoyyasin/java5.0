@@ -1,2 +1,29 @@
-# java5.0
-java5.0
+# java5.0 5th week first assignment
+ 
+İstenilenler: 
+Aşağıda bir e-ticaret sisteminde sisteme kayıt ve sisteme giriş için gerekli gereksinim ve kabul kriterlerini yazdım. Bu sisteme ait Java backend yazmak istiyoruz.
+
+Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
+
+Sisteme temel kullanıcı bilgileri , e-posta ve parolayla üye olunabilmelidir. Temel kullanıcı bilgileri : ad, soyad, e-posta, parola. Temel bilgilerin tamamı zorunludur.
+Parola en az 6 karakterden oluşmalıdır.
+E-posta alanı e-posta formatında olmalıdır. (Regex ile yapınız. Araştırma konusu)
+E-Posta daha önce kullanılmamış olmalıdır.
+Ad ve soyad en az iki karakterden oluşmalıdır.
+Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)
+Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)
+Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+
+Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)
+
+İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)
+Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+
+Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.
+
+E-posta ve parola zorunludur
+Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+
+Bu isterleri katmanlı mimaride simüle ediniz.
+![java5](https://user-images.githubusercontent.com/73845925/117317881-97319780-ae92-11eb-93b2-9e2c48b7a4a0.png)
+![java6](https://user-images.githubusercontent.com/73845925/117317882-9862c480-ae92-11eb-9106-1d36ad6918d2.png)
