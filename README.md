@@ -23,5 +23,5 @@ E-posta ve parola zorunludur
 Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
 Bu isterleri katmanlı mimaride simüle ediniz.
-![java5](https://user-images.githubusercontent.com/73845925/117317881-97319780-ae92-11eb-93b2-9e2c48b7a4a0.png)
+
 ![java6](https://user-images.githubusercontent.com/73845925/117317882-9862c480-ae92-11eb-9106-1d36ad6918d2.png)
