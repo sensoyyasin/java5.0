@@ -1,4 +1,5 @@
-# java5.0 5th week first assignment
+# java5.0 5th week first assignment E-commerce site
+
  
 İstenilenler: 
 Aşağıda bir e-ticaret sisteminde sisteme kayıt ve sisteme giriş için gerekli gereksinim ve kabul kriterlerini yazdım. Bu sisteme ait Java backend yazmak istiyoruz.
